@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://works.creaturexd.com/sitemap.xml
+Disallow: /ghost/
