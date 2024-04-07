@@ -55,8 +55,8 @@ canvas {
 @media (max-width: 767px) {
   canvas {
     margin-top: -3vh;
-    margin-bottom: -1vh;
+
     width: 100vw;
-    height: 95vh;
+    height: 85vh;
   }
 }
